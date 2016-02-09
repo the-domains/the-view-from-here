@@ -1,0 +1,28 @@
+name: The View From Here
+favicon: null
+layout_spectrum: 0.9817063265945762
+typography_spectrum: 0.9356864932924509
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.031178470700979233
+  lightness: 0.8980388105846941
+  saturation: 0.6288804265204817
+  rhythmicContrast: 0.696645439369604
+purpose: []
